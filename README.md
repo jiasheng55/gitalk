@@ -1,2 +1,2 @@
 # gitalk
-blog comment
+Comments of [Jiasheng Blog](http://wangjiasheng.top)
